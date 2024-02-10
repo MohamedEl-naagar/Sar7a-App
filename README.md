@@ -29,13 +29,11 @@ npm start
 2. Use the API endpoints to send and receive messages anonymously.
 
 ## Contributing
-Contributions are welcome! Please open an issue or submit a pull request with your changes.
+.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+.
 
 ## Contact
-For questions or feedback, please contact Mohamed Elnagar at example@example.com.
+For questions or feedback, please contact Mohamed Elnagar at mohamednegoo5@gmail.com.
 
-## Acknowledgements
-- Special thanks to [name] for inspiration.
