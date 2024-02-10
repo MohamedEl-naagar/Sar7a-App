@@ -1,4 +1,15 @@
 # Sar7a App
+## Technologies Used
+
+The Sar7a App backend is built using the following technologies:
+
+- **bcrypt**: Used for secure password hashing.
+- **dotenv**: Used for managing environment variables.
+- **express**: Used as the web framework for handling HTTP requests.
+- **joi**: Used for data validation.
+- **jsonwebtoken**: Used for authentication with JSON Web Tokens.
+- **mongoose**: Used as an ODM library for MongoDB.
+- **nodemailer**: Used for sending emails.
 
 ## Description
 Sar7a App is a backend Node.js Express application for sending messages anonymously.
