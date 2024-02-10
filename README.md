@@ -14,11 +14,12 @@ npm install
 - Create a `.env` file in the root directory.
 - Add the following environment variables:
   ```
-  PORT=3000
-  DATABASE_URL=your_database_url
-  SECRET_KEY=your_secret_key
-  VERIFY_SECRET=your_verify_secret
-  SALTROUNDS=10
+ SALTROUNDS=8
+SECRET_KEY="@PHG368"
+EMAIL="mohamednegoo5@gmail.com"
+EMAIL_PASSWORD="oaoccosewncckvtp"
+VERIFY_SECRET="ROOT"
+MODE=dev
   ```
 
 ## Usage
